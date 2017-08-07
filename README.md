@@ -11,11 +11,3 @@ Fablab at mesce consist of 3D printer,CNC,Laser cutter etc...
 -We had an introductory talk on Fablab by our trainer Mr.muhammed jaseel.                                                          Simple homeworks were given to us like creating accounts in GitHub,Instructables,Thingiverse,vimeo,GrabCAD,etc..
 ## DAY 2
 Installed softwares required and We learnt about how to document our work using Github pages.
- 
- 
- 
- 
- 
- 
- 
- 
