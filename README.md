@@ -11,10 +11,10 @@ Fablab at mesce consist of
 ->CNC
 ->Laser cutter etc..
 ## DAY 1
--We had an introductory talk on Fablab by our trainer Mr.muhammed jaseel.
+-We had an introductory talk on Fablab by our trainer Mr.muhammed jaseel.                                                              
 -Simple homeworks were given to us like creating accounts in GitHub,Instructables,Thingiverse,vimeo,GrabCAD,etc..
 ## DAY 2
-## -Installed softwares required
+### -Installed softwares required
 ## -We learnt about how to document our work using Github pages.
  
  
