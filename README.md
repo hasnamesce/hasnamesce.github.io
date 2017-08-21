@@ -8,7 +8,7 @@ A Fablab is equipped with an array of flexible computer-controlled tools that co
 ## FABLAB AT MECSE
 
 Fablab at mesce consist of 3D printer,CNC,Laser cutter etc...
-COURSE CONTENTS<br  />   
+COURSE CONTENTS  .    
 
 
 DAY 1:Introduction to Fablab<br  />
