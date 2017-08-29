@@ -1,6 +1,6 @@
 ## ABOUT ME
 
- I am Hasna.k,a final year Computer Science engineering student pursuing my graduation from MES College Of Engineering,Kuttipuram.
+ I am Hasna k,a final year Computer Science engineering student pursuing my graduation from MES College Of Engineering,Kuttipuram.
 
 e-mail ID:hasna1751997@gmail.com
 ## FABLAB
@@ -52,5 +52,5 @@ For that
 3.print
 4.Detatch the printed model from the 3D printer.<br/>
 5.Remove sopport from 3D printed model.
-## DAY 4
+## DAY 6
 Detailed description about LASER CUTTER,CNC.
