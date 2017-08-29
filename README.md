@@ -11,7 +11,12 @@ Fablab at mesce consist of 3D printer,CNC,Laser cutter etc...
 COURSE CONTENTS  .    
 
 
-DAY 1:Introduction to Fablab<br  />
+DAY 1:Introduction to Fablab<br/>
+DAY 2:Github pages and documentation<br/>
+DAY 3:Electronics production and CNC<br/>
+DAY 4:Vinyl cutting<br/>
+DAY 5:Screen printing<br/>
+DAY 6:3D printing<br/>
 
 
 ## DAY 2
