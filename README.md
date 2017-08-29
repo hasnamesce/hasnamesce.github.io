@@ -21,7 +21,7 @@ DAY 6:3D printing<br/>
 
 ## DAY 1
 First day we got an introduction to "How to make almost anything".<br/>
-![ph1](/images/ph1/)
+![Screenshot_2017-08-21-13-30-43](/images/Screenshot_2017-08-21-13-30-43/)
 ## DAY 2
 Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
 ![ph2](/images/ph2/)
