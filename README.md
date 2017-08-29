@@ -19,8 +19,7 @@ DAY 5:Screen printing<br/>
 DAY 6:3D printing<br/>
 
 
+## DAY 1
+First day we got an introduction to "How to make almost anything".<br/>
 ## DAY 2
--We had an introductory talk on Fablab by our trainer Mr.muhammed jaseel.<br/>                                                          Simple homeworks were given to us like creating accounts in GitHub,Instructables,Thingiverse,vimeo,GrabCAD,etc..
-## DAY 2
-Installed softwares required.<br/>
-We learnt about how to document our work using Github pages.
+Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
