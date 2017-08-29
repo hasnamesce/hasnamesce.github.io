@@ -24,6 +24,7 @@ First day we got an introduction to "How to make almost anything".<br/>
 ![ph1](/images/ph1/)
 ## DAY 2
 Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
+![ph2](/images/ph2/)
 ## DAY 3
 ELECTRONICS PRODUCTION AND CNC<br/>
 Today we got a brief description about electronic production.<br/>
