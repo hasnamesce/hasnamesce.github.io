@@ -23,3 +23,14 @@ DAY 6:3D printing<br/>
 First day we got an introduction to "How to make almost anything".<br/>
 ## DAY 2
 Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
+## DAY 3
+3D printing also known as additive manufacturing,refers to processes to create a three-dimensional object in which layer of material are formed under computer control to create an object.
+Today we first installed autoCAD software inorder to design our model.Rhinoceros is used.
+STEP 1:<br/>
+Develep a concept<br/>
+STEP 2:<br/>
+Hop on computer
+STEP 3:<br/>
+Get access to a 3d printer<br/>
+## DAY 4
+detailed description about LASER CUTTER,VINYL CUTTER,CNC.
