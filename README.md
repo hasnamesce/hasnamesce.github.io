@@ -21,6 +21,7 @@ DAY 6:3D printing<br/>
 
 ## DAY 1
 First day we got an introduction to "How to make almost anything".<br/>
+![ph1](/images/ph1/)
 ## DAY 2
 Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
 ## DAY 3
@@ -50,4 +51,4 @@ For that
 4.Detatch the printed model from the 3D printer.<br/>
 5.Remove sopport from 3D printed model.
 ## DAY 4
-detailed description about LASER CUTTER,VINYL CUTTER,CNC.
+Detailed description about LASER CUTTER,CNC.
