@@ -15,7 +15,7 @@ DAY 1:Introduction to Fablab<br  />
 
 
 ## DAY 2
--We had an introductory talk on Fablab by our trainer Mr.muhammed jaseel.                                                          Simple homeworks were given to us like creating accounts in GitHub,Instructables,Thingiverse,vimeo,GrabCAD,etc..
+-We had an introductory talk on Fablab by our trainer Mr.muhammed jaseel.<br/>                                                          Simple homeworks were given to us like creating accounts in GitHub,Instructables,Thingiverse,vimeo,GrabCAD,etc..
 ## DAY 2
 Installed softwares required 
 We learnt about how to document our work using Github pages.
