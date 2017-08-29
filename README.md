@@ -24,13 +24,30 @@ First day we got an introduction to "How to make almost anything".<br/>
 ## DAY 2
 Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
 ## DAY 3
+ELECTRONICS PRODUCTION AND CNC<br/>
+Today we got a brief description about electronic production.<br/>
+## DAY 4
+A vinyl cutter is a type of computer-controlled machine.The computer controls sharp movement of a sharp blade.This table is used to cut out shapes and letters from sheets of thin self-adhesive plastic(vinyl).<br/>
+STES<br/>
+1.Find an image that you want to make into a sticker.<br/>
+2.Import the image into CutStudio.<br/>
+3.Adjust the scale and accuracy of cut.<br/>
+4.Load the piece of vinyl into the machine.<br/>
+5.press the cut button.<br/>
+## DAY 5
 3D printing also known as additive manufacturing,refers to processes to create a three-dimensional object in which layer of material are formed under computer control to create an object.
 Today we first installed autoCAD software inorder to design our model.Rhinoceros is used.
 STEP 1:<br/>
-Develep a concept<br/>
+Develep a concept for 3D printing and and convert it into one of the format using Rhinoceros(any 3D modelling software).<br/>
 STEP 2:<br/>
-Hop on computer
+Load the converted 3D model from Rhinoceros software into Cura.Then adjust the model's scale and other properties.<br/>
 STEP 3:<br/>
-Get access to a 3d printer<br/>
+The next step is printing the model we designed using Ultimaker 2+.<br/>
+For that 
+1.We have to copy the  file from CURA  into SD card.<br/>
+2.Check and correct the display settings on the Ultimaker 2+.
+3.print
+4.Detatch the printed model from the 3D printer.<br/>
+5.Remove sopport from 3D printed model.
 ## DAY 4
 detailed description about LASER CUTTER,VINYL CUTTER,CNC.
