@@ -36,6 +36,7 @@ STES<br/>
 3.Adjust the scale and accuracy of cut.<br/>
 4.Load the piece of vinyl into the machine.<br/>
 5.press the cut button.<br/>
+![ph3](/images/ph3/)
 ## DAY 5
 3D printing also known as additive manufacturing,refers to processes to create a three-dimensional object in which layer of material are formed under computer control to create an object.
 Today we first installed autoCAD software inorder to design our model.Rhinoceros is used.
