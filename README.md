@@ -21,10 +21,10 @@ DAY 6:3D printing<br/>
 
 ## DAY 1
 First day we got an introduction to "How to make almost anything".<br/>
-![ph1](/images/ph1/)
+![ph1](/images/ph1)
 ## DAY 2
 Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
-![ph2](/images/ph2/)
+![ph2](/images/ph2)
 ## DAY 3
 ELECTRONICS PRODUCTION AND CNC<br/>
 Today we got a brief description about electronic production.<br/>
@@ -36,7 +36,7 @@ STES<br/>
 3.Adjust the scale and accuracy of cut.<br/>
 4.Load the piece of vinyl into the machine.<br/>
 5.press the cut button.<br/>
-![ph3](/images/ph3/)
+![ph3](/images/ph3)
 ## DAY 5
 3D printing also known as additive manufacturing,refers to processes to create a three-dimensional object in which layer of material are formed under computer control to create an object.
 Today we first installed autoCAD software inorder to design our model.Rhinoceros is used.
