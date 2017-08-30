@@ -24,10 +24,12 @@ First day we got an introduction to "How to make almost anything".<br/>
 ![ph1](/images/Screenshot_2017-08-21-13-30-43.png)
 ## DAY 2
 Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
-![ph2](/images/ph2)
+![ph2](/images/github.png)
 ## DAY 3
 ELECTRONICS PRODUCTION AND CNC<br/>
 Today we got a brief description about electronic production.<br/>
+
+![ph2](/images/cnc2.jpg)
 ## DAY 4
 A vinyl cutter is a type of computer-controlled machine.The computer controls sharp movement of a sharp blade.This table is used to cut out shapes and letters from sheets of thin self-adhesive plastic(vinyl).<br/>
 STES<br/>
