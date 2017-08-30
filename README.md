@@ -60,4 +60,4 @@ For that
 ## DAY 6
 Detailed description about LASER CUTTER,CNC.
 
-![ph2](/images/laser.png)
+![ph2](/images/laser.jpg)
