@@ -24,7 +24,9 @@ First day we got an introduction to "How to make almost anything".<br/>
 ![ph1](/images/Screenshot_2017-08-21-13-30-43.png)
 ## DAY 2
 Today we leanrt of how to document our project into GitHub pages.Also they gave us a description to 3d printer and teach us to how to use it properly.
+
 ![ph2](/images/github.png)
+
 ## DAY 3
 ELECTRONICS PRODUCTION AND CNC<br/>
 Today we got a brief description about electronic production.<br/>
@@ -42,7 +44,7 @@ STES<br/>
 ## DAY 5
 3D printing also known as additive manufacturing,refers to processes to create a three-dimensional object in which layer of material are formed under computer control to create an object.
 ![ph4](/images/Screenshot_2017-08-21-13-37-54-1.png)
-Today we first installed autoCAD software inorder to design our model.Rhinoceros is used.
+<br/>Today we first installed autoCAD software inorder to design our model.Rhinoceros is used.
 STEP 1:<br/>
 Develep a concept for 3D printing and and convert it into one of the format using Rhinoceros(any 3D modelling software).<br/>
 STEP 2:<br/>
@@ -57,3 +59,5 @@ For that
 5.Remove sopport from 3D printed model.
 ## DAY 6
 Detailed description about LASER CUTTER,CNC.
+
+![ph2](/images/laser.png)
