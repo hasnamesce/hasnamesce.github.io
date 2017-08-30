@@ -39,6 +39,7 @@ STES<br/>
 ![ph3](/images/Screenshot_2017-08-21-13-35-40-1.png)
 ## DAY 5
 3D printing also known as additive manufacturing,refers to processes to create a three-dimensional object in which layer of material are formed under computer control to create an object.
+![ph4](/images/Screenshot_2017-08-21-13-35-40-1.png)
 Today we first installed autoCAD software inorder to design our model.Rhinoceros is used.
 STEP 1:<br/>
 Develep a concept for 3D printing and and convert it into one of the format using Rhinoceros(any 3D modelling software).<br/>
